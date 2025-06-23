@@ -1,3 +1,7 @@
+--Query used for Tableau
+
+
+
 --Top Performing stores based on total weekly sales
 
 SELECT 
