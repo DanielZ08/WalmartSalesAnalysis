@@ -19,3 +19,5 @@ Targeted SQL queries regarding various business questions can be found [here](ht
 
 # Data Structure & Initial Checks 
 Walmart's Database structure as seen below consists of four tables: Store, Time, Sales,and EconomicData 
+
+![Image](https://github.com/user-attachments/assets/75233d92-97ce-4be0-81e1-41c13881ddeb)
