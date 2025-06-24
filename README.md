@@ -29,6 +29,9 @@ Walmart Inc. Dataset ERD
 This analysis reviews Walmart’s sales performance from 2010 to 2012 across 45 stores, totaling approximately $6.74 billion in revenue. While 2011 showed strong year-over-year growth (6.96%), 2012 saw an 18.30% decline, prompting a need for strategic reassessment. Seasonal insights revealed that although non-holiday weeks drove the majority of revenue, holiday periods still contributed 7.5%—exceeding national expectations—while December consistently emerged as the top-performing month. A negative correlation between unemployment rates and weekly sales suggests external economic factors significantly impact consumer spending. Additionally, Store #20 led with over $301M in sales, signaling potential best practices that could inform improvements across lower-performing locations.
 
 Below is the page from the Tableau dashboard which are included throughout the report. The entire interactive dashboard can be downloaded [here](https://public.tableau.com/shared/KXMBGGMHZ?:display_count=n&:origin=viz_share_link)
+
 ![Image](https://github.com/user-attachments/assets/71815d95-6d4d-44c0-a1f1-1970eb8e5fbe)
+
+### Sales Trends:
 
 
