@@ -33,5 +33,9 @@ Below is the page from the Tableau dashboard which are included throughout the r
 ![Image](https://github.com/user-attachments/assets/71815d95-6d4d-44c0-a1f1-1970eb8e5fbe)
 
 ### Sales Trends:
-
+- December leads in performance, with 2010 and 2011 reaching approximately $290M in total sales—over 20% higher than any other month. This highlights December as a critical driver of annual revenue, likely due to holiday shopping.
+- Sales spiked in June 2012, reaching approximately $240M—the second-highest monthly figure across all years—followed closely by August at around $236M. This suggests a possible mid-year boost in consumer activity, potentially tied to summer promotions inventory events and/or back to school sales.
+- April and May reflect weaker performance, both falling below $200M in total sales across all years. For example, April 2012 achieved only around $188M, indicating a consistent mid-year dip that may benefit from targeted marketing strategies.
+- Q1 months (January–March) exhibit stable yet modest sales performance, with totals generally ranging between $170M and $190M. For instance, March 2010 recorded approximately $181M, while March 2011 declined slightly to around $179M. This trend is expected, as Q1 typically follows the high-revenue Q4 holiday season, resulting in a natural dip in consumer spending.
+- Year-over-year comparison shows 2011 as the strongest performer, with multiple months exceeding $220M, supporting the previously reported 6.96% YoY growth. In contrast, 2012 saw more months below the $200M mark, consistent with the 18.30% sales decline.
 
