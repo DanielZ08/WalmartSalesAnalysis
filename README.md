@@ -1,4 +1,18 @@
-# Project Background
+# Walmart Inc. Sales Analysis
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Project Background
 Walmart Inc., founded in 1962, is the world’s largest retailer, operating a chain of hypermarkets, discount department stores, and grocery stores across the United States and globally. With a mission to save people money so they can live better, Walmart serves millions of customers each week through its stores and e-commerce platforms. As a data-driven enterprise, Walmart places strong emphasis on leveraging sales and operational data to improve customer satisfaction, inventory management, and profitability. Walmart has grown into a retail powerhouse known for its low-price leadership, efficient supply chain, and vast store network. 
 
 The company has a significant amount of data, ranging from sales, regional store information, unemployment rates, consumer price indexes, and fuel prices, that has previously been underutilized. This project thoroughly analyzes and synthesizes the data to uncover critical insights that will ultimately help determine factors that may influence sales trends and improve Walmart's regional success. 
@@ -17,13 +31,13 @@ The cleaned excel file can be found [here](https://github.com/DanielZ08/WalmartS
 
 Targeted SQL queries regarding various business questions can be found [here](https://github.com/DanielZ08/WalmartSalesAnalysis/blob/main/SQLWalmart.sql)
 
-# Data Structure & Initial Checks 
+## Data Structure & Initial Checks 
 Walmart's Database structure as seen below consists of four tables: Store, Time, Sales,and EconomicData 
 
 ![Image](https://github.com/user-attachments/assets/75233d92-97ce-4be0-81e1-41c13881ddeb)
 Walmart Inc. Dataset ERD
 
-# Executive Summary
+## Executive Summary
 
 ### Overview of Findings
 This analysis reviews Walmart’s sales performance from 2010 to 2012 across 45 stores, totaling approximately $6.74 billion in revenue. While 2011 showed strong year-over-year growth (6.96%), 2012 saw an 18.30% decline, prompting a need for strategic reassessment. Seasonal insights revealed that although non-holiday weeks drove the majority of revenue, holiday periods still contributed 7.5%—exceeding national expectations—while December consistently emerged as the top-performing month. A negative correlation between unemployment rates and weekly sales suggests external economic factors significantly impact consumer spending. Additionally, Store #20 led with over $301M in sales, signaling potential best practices that could inform improvements across lower-performing locations.
@@ -31,6 +45,8 @@ This analysis reviews Walmart’s sales performance from 2010 to 2012 across 45 
 Below is the page from the Tableau dashboard which are included throughout the report. The entire interactive dashboard can be downloaded [here](https://public.tableau.com/shared/KXMBGGMHZ?:display_count=n&:origin=viz_share_link)
 
 ![Image](https://github.com/user-attachments/assets/71815d95-6d4d-44c0-a1f1-1970eb8e5fbe)
+
+## Insights Deep-Dive
 
 ### Sales Trends:
 - December leads in performance, with 2010 and 2011 reaching approximately $290M in total sales—over 20% higher than any other month. This highlights December as a critical driver of annual revenue, likely due to holiday shopping.
@@ -54,6 +70,19 @@ Below is the page from the Tableau dashboard which are included throughout the r
 - Many stores, including Store #2, #11, and #27, consistently reached or exceeded $250M in total sales, indicating strong regional or operational performance. These stores may serve as benchmarks for identifying success drivers applicable to underperforming locations.
 - Over one-third of stores—including Store #3, #5, and #7—reported total sales under $100M. This points to widespread performance disparities across the chain, warranting a segmented analysis to identify market-specific constraints or inefficiencies.
 - The distribution of total sales across the 45 stores reveals no clear geographic or numerical clustering, suggesting that performance is not strictly tied to store sequence or rollout timing. This emphasizes the importance of localized analysis over generalized strategies.
+
+![Image](https://github.com/user-attachments/assets/52bb98ea-91f0-4ae2-93c0-b93e52266d42)
+
+## Recommendations: 
+
+Based on the uncovered insights, the following recommendations have been provided: 
+-  **Capitalize on Q4 High-Volume Sales:** December alone accounted for over $288M in 2011 and approximately $289M in 2010, which accounts for 7.5% of the total sales. Focusing on end-of-year campaigns could leverage this consistent demand, especially during the holiday season, to drive additional revenue. Reinforcing promotional spend in Q4 has the potential to lift total sales by 8–10% annually.
+- **Prioritize Performance Improvement at Lagging Stores:** Store #33 generated just $37.1M in total sales, which is 88% below the average top 10 store performance (averaging $260M+). Conduct store-level diagnostics on bottom quartile locations (e.g., stores under $100M like #3, #5, and #7) to uncover gaps in operations, customer traffic, or local competition that may be suppressing growth.
+- **Scale Strategies from High-Performing Locations:** Store #20 generated $301M—the highest among all 45 locations—and stores like #2, #10, and #14 consistently exceeded $250M in sales. Benchmarking against these leaders could reveal replicable success factors. Elevating mid-tier stores (those in the $150M–$200M range) by even 10% would yield an estimated $90M increase in chain-wide revenue.
+- **Incorporate Economic Indicators into Sales Planning:** There is a visible inverse correlation between unemployment rate and weekly sales, with average weekly revenue falling from over $2M to below $900K as unemployment rises from 4% to 10%. Incorporating macroeconomic variables into forecasting models could improve sales projections by 15–20% and enable more responsive inventory allocation.
+-  **Rebalance Holiday and Non-Holiday Marketing:** Although non-holiday weeks generated the majority of sales, holiday periods still contributed 7.5% of total revenue—outpacing the National Retail Federation’s benchmark of 5.6%. This 34% surplus suggests an underutilized opportunity. Strategically aligning 10–15% more marketing resources during holiday windows could boost seasonal ROI by up to 20%.
+- **Maximize Mid-Year Promotion Periods:** June 2012 reached $240M in sales—the second-highest monthly total across all years—and August followed closely at $236M. These figures highlight an opportunity to expand summer promotional campaigns. Replicating this seasonal uplift across all three years could add $30M–$40M in mid-year revenue.
+- **Implement Segmented Store Management:** Over 33% of stores (15 out of 45) reported less than $100M in total sales, while 7 stores exceeded $250M—demonstrating a wide performance variance. Segmenting stores by revenue bands and regional factors would enable targeted support strategies, potentially improving the bottom 25% of stores by 15–20% with localized initiatives.
   
 
   
