@@ -39,3 +39,5 @@ Below is the page from the Tableau dashboard which are included throughout the r
 - Q1 months (January–March) exhibit stable yet modest sales performance, with totals generally ranging between $170M and $190M. For instance, March 2010 recorded approximately $181M, while March 2011 declined slightly to around $179M. This trend is expected, as Q1 typically follows the high-revenue Q4 holiday season, resulting in a natural dip in consumer spending.
 - Year-over-year comparison shows 2011 as the strongest performer, with multiple months exceeding $220M, supporting the previously reported 6.96% YoY growth. In contrast, 2012 saw more months below the $200M mark, consistent with the 18.30% sales decline.
 
+  ![Image](https://github.com/user-attachments/assets/9901ba5e-860a-4952-b953-1615a89bf417)
+
