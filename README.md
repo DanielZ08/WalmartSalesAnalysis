@@ -2,6 +2,16 @@
 
 Table of Contents
 - [Project Background](https://github.com/DanielZ08/WalmartSalesAnalysis/blob/main/README.md#project-background)
+- [Data Structure & Initial Checks](https://github.com/DanielZ08/WalmartSalesAnalysis/blob/main/README.md#data-structure--initial-checks)
+- [Executive Summary](https://github.com/DanielZ08/WalmartSalesAnalysis/blob/main/README.md#executive-summary)
+  - [Overview of Findings](https://github.com/DanielZ08/WalmartSalesAnalysis/blob/main/README.md#overview-of-findings)
+- [Insights Deep-Dive](https://github.com/DanielZ08/WalmartSalesAnalysis/blob/main/README.md#insights-deep-dive)
+  - [Sales Trends](https://github.com/DanielZ08/WalmartSalesAnalysis/blob/main/README.md#sales-trends)
+  - [Additional Observations](https://github.com/DanielZ08/WalmartSalesAnalysis/blob/main/README.md#additional-observations)
+  - [Performance Amongst Stores](https://github.com/DanielZ08/WalmartSalesAnalysis/blob/main/README.md#performance-amongst-stores)
+- [Recommendations](https://github.com/DanielZ08/WalmartSalesAnalysis/blob/main/README.md#recommendations)    
+
+
 
 
 
