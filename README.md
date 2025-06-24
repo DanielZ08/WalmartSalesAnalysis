@@ -1,6 +1,7 @@
 # Walmart Inc. Sales Analysis
 
-
+Table of Contents
+- [Project Background](https://github.com/DanielZ08/WalmartSalesAnalysis/blob/main/README.md#project-background)
 
 
 
