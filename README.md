@@ -39,5 +39,22 @@ Below is the page from the Tableau dashboard which are included throughout the r
 - Q1 months (January–March) exhibit stable yet modest sales performance, with totals generally ranging between $170M and $190M. For instance, March 2010 recorded approximately $181M, while March 2011 declined slightly to around $179M. This trend is expected, as Q1 typically follows the high-revenue Q4 holiday season, resulting in a natural dip in consumer spending.
 - Year-over-year comparison shows 2011 as the strongest performer, with multiple months exceeding $220M, supporting the previously reported 6.96% YoY growth. In contrast, 2012 saw more months below the $200M mark, consistent with the 18.30% sales decline.
 
-  ![Image](https://github.com/user-attachments/assets/9901ba5e-860a-4952-b953-1615a89bf417)
+![Image](https://github.com/user-attachments/assets/c1ce7d3d-38c8-44a7-9c65-514acdf2dda2)
+
+### Additional Observations:
+- December and June showed standout performances, the chart also reveals that several months—such as August and September—consistently deliver strong sales just below peak levels. For instance, in 2012, August achieved sales of approximately $236M, suggesting a sustained consumer demand beyond the summer promotional period.
+- The visual alignment of bars across years highlights a relatively steady seasonal structure, with minimal deviation in peak months across 2010 to 2012. This consistency implies predictable buying behavior, which could be leveraged for future sales planning and inventory alignment.
+- Notably, the spread between highest and lowest performing months within each year is quite significant—December 2012 peaked near $290M, whereas May 2011 fell closer to $180M—indicating potential opportunity in redistributing marketing efforts during historically underperforming months.
+- It is also important to note that November and December 2012 were not included in the dataset shown. However, based on historical performance in November and December of 2010 and 2011—where both months consistently ranked among the highest in total sales—it is reasonable to infer that these months in 2012 would follow a similar upward trend, if not exceed prior years, due to seasonal demand and end-of-year shopping patterns.
+- Despite the overall drop in total sales during 2012, the pattern of monthly distribution remained similar to previous years, reinforcing that external economic factors, rather than internal operational changes, may have played a larger role in that year’s decline.
+
+### Performance Amongst Stores:
+- Store #20 emerged as the top-performing location, generating over $301M in total sales—significantly above the store average. This standout performance suggests potential operational, demographic, or location-based advantages that warrant further investigation for broader application.
+- Store #33, generated only $37M in sales, making it one of the lowest performers. Its outlier status among similarly numbered peers suggests the need for a deeper dive into store-specific factors such as layout, staffing, or competitive landscape.
+- Many stores, including Store #2, #11, and #27, consistently reached or exceeded $250M in total sales, indicating strong regional or operational performance. These stores may serve as benchmarks for identifying success drivers applicable to underperforming locations.
+- Over one-third of stores—including Store #3, #5, and #7—reported total sales under $100M. This points to widespread performance disparities across the chain, warranting a segmented analysis to identify market-specific constraints or inefficiencies.
+- The distribution of total sales across the 45 stores reveals no clear geographic or numerical clustering, suggesting that performance is not strictly tied to store sequence or rollout timing. This emphasizes the importance of localized analysis over generalized strategies.
+  
+
+  
 
