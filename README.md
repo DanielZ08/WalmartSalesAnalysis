@@ -12,17 +12,6 @@ Table of Contents
 - [Recommendations](https://github.com/DanielZ08/WalmartSalesAnalysis/blob/main/README.md#recommendations)    
 
 
-
-
-
-
-
-
-
-
-
-
-
 ## Project Background
 Walmart Inc., founded in 1962, is the world’s largest retailer, operating a chain of hypermarkets, discount department stores, and grocery stores across the United States and globally. With a mission to save people money so they can live better, Walmart serves millions of customers each week through its stores and e-commerce platforms. As a data-driven enterprise, Walmart places strong emphasis on leveraging sales and operational data to improve customer satisfaction, inventory management, and profitability. Walmart has grown into a retail powerhouse known for its low-price leadership, efficient supply chain, and vast store network. 
 
