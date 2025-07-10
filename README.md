@@ -17,7 +17,6 @@ Walmart Inc., founded in 1962, is the world’s largest retailer, operating a ch
 
 Walmart has grown into a retail powerhouse recognized for its leadership in low prices, efficient supply chain, and vast store network.
 The company has a significant amount of data, ranging from sales, regional store information, unemployment rates, consumer price indexes, and fuel prices, that has previously been underutilized. This project thoroughly analyzes and synthesizes the data to uncover critical insights that will ultimately help determine factors that may influence sales trends and improve Walmart's regional success.
-Insights and recommendations are provided on the following key areas:
 
 Insights and recommendations are provided on the following key areas
 - **Sales Trend Analysis:**  Evaluation of historical sales patterns across 45 regional stores, focusing on weekly and total sales.
